@@ -68,7 +68,7 @@
         text-decoration: none;
         /*background: #6eaf6e;*/
     }
-    #cssmenu > ul > li:hover >a,#cssmenu li.active a{color: #ff0;}
+    #cssmenu > ul > li:hover >a,#cssmenu li.active a{color: #ff0;text-decoration: none;}
     /*#cssmenu > ul > li.has-sub > a {
         padding-right: 46px;
     }*/
@@ -149,7 +149,7 @@
         /*min-width: 180px;*/
         font-size: 14px;
         text-decoration: none;
-        font-weight: 400;
+        font-weight: 200;
         color: #feff01;
         background: #254394;
         white-space: nowrap;
